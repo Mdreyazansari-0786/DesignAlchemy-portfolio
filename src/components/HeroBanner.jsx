@@ -95,7 +95,7 @@ const HeroBanner = () => {
                     animate={{ y: 0, opacity: 1 }}
                     transition={{ duration: 0.7, delay: 0.25 }}
                 >
-                    <div className="font-light mb-1  hover:border-indigo-900 transition hover:text-cyan-500 rounded-lg pl-3">
+                    <div className="font-light mb-0  hover:border-indigo-900 transition hover:text-cyan-500 rounded-lg pl-3">
                         👋 Hi, I Am{" "}
                         <span className="font-semibold">Md reyaz ansari</span>
                     </div>
