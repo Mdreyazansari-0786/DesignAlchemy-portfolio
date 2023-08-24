@@ -113,7 +113,7 @@ const HeroBanner = () => {
                     transition={{ duration: 0.7, delay: 0.25 }}
                 >
                     {/* START */}
-                    <div className="flex items-center gap-3">
+{/*                     <div className="flex items-center gap-3">
                         <div className="text-[80px] font-light">80+</div>
                         <div className="leading-[22px]">
                             SUCCESSFULLY
@@ -122,18 +122,18 @@ const HeroBanner = () => {
                             <br />
                             PROJECTS
                         </div>
-                    </div>
+                    </div> */}
                     {/* END */}
 
                     {/* START */}
-                    <div className="flex items-center gap-3">
+{/*                     <div className="flex items-center gap-3">
                         <div className="text-[80px] font-light">15+</div>
                         <div className="leading-[22px]">
                             YEARS OF
                             <br />
                             EXPERIENCE
                         </div>
-                    </div>
+                    </div> */}
                     {/* END */}
                 </motion.div>
                 {/* NUMBER BLOCK END */}
