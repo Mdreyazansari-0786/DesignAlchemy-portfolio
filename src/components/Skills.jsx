@@ -45,7 +45,7 @@ const Skills = () => {
             <Wrapper>
                 {/* SKILL ICONS START */}
                 <h1 className=" text-[40px] font-semibold flex justify-center mb-7 hover:text-teal-600 ">Skills</h1>
-                <Div className="grid grid-cols-4 gap-0 lg:gap-4 md:grid-cols-11 relative pl-28">
+                <Div className="grid grid-cols-4 gap-4 md:grid-cols-11 relative lg:pl-28 pl-0">
                     <SkillIcon path={sk1} />
                     <SkillIcon path={sk2} />
                     <SkillIcon path={sk3} />
