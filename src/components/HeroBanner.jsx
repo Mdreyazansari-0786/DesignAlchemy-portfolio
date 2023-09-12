@@ -140,7 +140,7 @@ const HeroBanner = () => {
 
                 {/* PERSON BLOCK START */}
                 <motion.div
-                    className="w-[300px] md:w-[360px] 2xl:w-[340px] absolute bottom-0 left-[80%] -translate-x-1/2"
+                    className="w-[300px] md:w-[360px] 2xl:w-[340px] absolute bottom-0 left-[40%] -translate-x-1/2"
                     initial={{ y: 200, x: "-50%" }}
                     animate={{ y: 0 }}
                     transition={{ duration: 0.5 }}
